@@ -1,0 +1,306 @@
+/* <!-- Hero section --> */
+.clear-fix
+{
+    clear: both;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.hero
+{
+    background-image: url(../images/drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center ;
+    background-repeat: no-repeat;
+    height: 1000px;
+    overflow: hidden;
+}
+.text
+{
+    text-align: center;
+    margin: auto;
+    margin-top: 300px;
+    /* background-color: #8e7754; */
+    height: 100%;
+
+}
+h4
+{
+    /* background-color: aliceblue; */
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    padding: 16px;
+    font-size: 200%;
+}
+h1
+{
+    /* background-color: aliceblue; */
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 80px;
+    font-weight: 900px;
+    padding: 16px;
+}
+p
+{
+    /* background-color: aliceblue; */
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+    padding: 16px;
+    line-height: 32px;
+}
+.button
+{
+    padding: 16px;
+    color: white;
+    font-size: 16px;
+}
+.btn1
+{
+    background-color: #8e7754;
+    border: none;
+    margin: 8px;
+}
+.btn2
+{
+    background-color: transparent;
+    border: 1px solid #ffffff ;
+    margin: 8px;
+}
+li
+{
+    display: inline-block;
+    float: right;
+    padding: 16;
+    list-style: none;
+    color: white;
+    margin: 12px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+.navbar img
+{
+    margin: 16px;
+    float: left;
+    width: 15%;
+}
+.navbar
+{
+    width: 60%;
+    margin: auto;
+}
+/* <!-- Who we are section --> */
+
+.icon
+{
+    /* background-color: #8e7754; */
+}
+.aboutus
+{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.aboutus img
+{
+    float: left;
+    width: 40%;
+    margin: 20px;
+    border-radius: 20px;
+
+}
+.about
+{
+    /* background-color: #8e7754; */
+    float: right;
+    width: 50%;
+    margin: 50px;
+    margin-top: 80px;
+}
+.about h2
+{
+    font-size: 48px;
+    font-family: 'Raleway', sans-serif;
+    color: #303030;
+}
+.about p
+{
+    color: #858585;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+.icon
+{
+    padding: 8px;
+
+}
+.icon img
+{
+    border: 1px solid #8e7754;
+    border-radius: 50%;
+    width: 24px;
+    margin-top: 6px;
+}
+.icontext
+{
+    color: #858585;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 50px ;
+    padding-bottom: 12px;
+}
+/* <!-- our location section --> */
+.location
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: inline-block;
+    overflow: auto;
+    background-color: #f8f8f8;
+    padding: 50px;
+}
+.location-text
+{
+    float: left;
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.location img
+{
+    float: right;
+    width: 40%;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+.location h4
+{
+    font-size: 48px;
+    color: #303030;
+    font-family: 'Raleway', sans-serif;;
+}
+.location-paragraph
+{
+    color: #858585;
+    font-family: 'Raleway', sans-serif;;
+    line-height: 50px;
+}
+.baking h2
+{
+    font-size: 48px;
+    color: #303030;
+    font-family: 'Raleway', sans-serif;;
+    text-align: center;
+}
+.baking p
+{
+    color: #858585;
+    font-family: 'Raleway', sans-serif;;
+    line-height: 40px;
+    text-align: center;
+    font-size: 18px;
+}
+.card
+{
+    display: inline-block;
+    width: 27%;
+    text-align: center;
+    padding: 24px;
+}
+.card img
+{
+    width: 100%;
+    border-radius: 20px;
+}
+.card h4
+{
+    color: #303030;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    padding-bottom: 0;
+}
+.card-paragraph
+{
+    color: #858585;
+    font-family: 'Raleway', sans-serif;;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+}
+    .baking
+    {
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    .contact
+    {
+        background-color: #303030;
+        overflow: auto;
+        display: inline-block;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .contact h5
+    {
+        font-size: 20px;
+        font-family: 'Raleway', sans-serif;
+        color: #303030;
+    }
+    .contact-information
+    {
+        background-color: #858585;
+        display: inline-block;
+        width: 50%;
+        margin-top: 100px;
+        margin-left: 50px;
+
+    }
+    .contact-information h2
+    {
+        font-size: 48px;
+        font-family: 'Raleway', sans-serif;
+        color: #303030;
+        margin-top: 50px;
+    }
+    .contact-elements
+    {
+        background-color: #f8f8f8;
+        padding: 20px;
+    }
+    iframe
+    {
+        float: right;
+        margin-right: 50px;
+        width: 40%;
+        border-radius: 20px;
+        margin-bottom: 100px;
+
+    }
+  .contact-information p
+    {
+        color: #858585;
+        background-color: #ff0000;
+        font-family: 'Raleway', sans-serif;
+        overflow: auto;
+        font-size: 20px;
+        font-weight: 400;
+        margin-left: 10px ;
+
+    }
+    .contact-icon img
+    {
+        border: 1px solid #8e7754;
+        border-radius: 50%;
+        width: 24px;
+        margin-left: 40px;
+        padding: 20px;
+    }
